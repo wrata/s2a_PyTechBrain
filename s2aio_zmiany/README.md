@@ -4,6 +4,7 @@ Należy zainstalować s2aio według wskazań autora i następnie zamienić podan
 <i>configuration.cfg</i><br />
 
 oraz dodać do odpowiednich folderów pliki:
+
 <i>s2aio\_PL.s2e</i><br />
 <i>s2aio\_base\_PL.s2e</i><br />
 z folderu <i>Scratch2</i>.
